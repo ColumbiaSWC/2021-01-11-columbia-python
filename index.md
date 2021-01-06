@@ -434,7 +434,7 @@ during the workshop.
 <h3>UNIX</h3>
 
 <ol>
-  <li>Download <a href="https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip">data-shell.zip</a> and move the file to your Desktop.</li>
+  <li>Download <a href="https://swcarpentry.github.io/shell-novice/data/data-shell.zip">data-shell.zip</a> and move the file to your Desktop.</li>
   <li>Unzip/extract the file.
 <strong>Let your instructor know if you need help with this step</strong>.
 You should end up with a new folder called <strong><code class="language-plaintext highlighter-rouge">data-shell</code></strong> on your Desktop.</li>
@@ -444,6 +444,7 @@ You should end up with a new folder called <strong><code class="language-plainte
 
 <p>The data we will be using for Python is taken from the <a href="https://en.wikipedia.org/wiki/Gapminder_Foundation">gapminder</a> dataset.
 To obtain it, download and unzip the file
-<a href="./files/python-novice-gapminder-data.zip">python-novice-gapminder-data.zip</a>.
+<a href="https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip">python-novice-gapminder-data.zip</a>.
 In order to follow the presented material, you should launch the JupyterLab
-server in the root directory (see <a href="./01-run-quit/#starting-jupyterlab">Starting JupyterLab</a>).</p>
+server in the root directory (see <a href="https://swcarpentry.github.io/python-novice-gapminder/01-run-quit/#starting-jupyterlab">Starting JupyterLab</a>).</p>
+
