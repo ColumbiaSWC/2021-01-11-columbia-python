@@ -16,7 +16,7 @@ enddate: 2021-01-14        # machine-readable end date for the workshop in YYYY-
 instructor: ["Rob Lane", "Satwinder Singh", "Aaron Weston Limoges", "Mengzhen Sun"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Michael Introini"," Axinia Radeva"," Mengzhen Sun", "Aaron Weston Limoges"]
 email: ["rcfoundations@columbia.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  "https://docs.google.com/document/d/12j6RaSslFodgEr2LrB5rdgGx2x4MFbrXxX2yJzFtQUc/edit?usp=sharing"
+collaborative_notes:  "https://docs.google.com/document/d/1Ll_jp3_-0DU5nb-khdIBot_qEjdj7pU2MJa3Yz5Vi0U/edit?usp=sharing"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
